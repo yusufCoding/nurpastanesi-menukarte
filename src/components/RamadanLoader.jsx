@@ -63,7 +63,6 @@ export default function RamadanLoader({
                 ))}
                 <div className="ramadan__dust" />
             </div>
-
             <div className="ramadan__card" role="status" aria-live="polite">
                 <div className="ramadan__frame" aria-hidden="true" />
 
