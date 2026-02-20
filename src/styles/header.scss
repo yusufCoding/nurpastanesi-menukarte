@@ -1,0 +1,67 @@
+@use "./variables" as *;
+
+.header {
+  width: min($max, calc(100% - 48px));
+  margin: 28px auto 10px;
+  display: grid;
+  place-items: center;
+  gap: 10px;
+  text-align: center;
+}
+
+.logo-wrap {
+  width: 120px;          // Hintergrund größer
+  height: 120px;
+
+  background: #0b3f2f;
+  border-radius: 50%;
+
+  display: grid;
+  place-items: center;
+
+  margin-bottom: 6px;
+
+  box-shadow: 0 10px 28px rgba(0,0,0,0.35);
+}
+
+.header__logo {
+  width: 80px;           // Logo selbst
+  height: 80px;
+
+  object-fit: contain;
+}
+
+.header__title {
+  font-family: $serif;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.header__subtitle {
+  font-size: 13px;
+  opacity: 0.7;
+  margin-top: 2px;
+}
+
+.langSwitch {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+
+  button {
+    border: 1px solid rgba(0,0,0,0.15);
+    background: #fff;
+    padding: 8px 12px;
+    border-radius: 999px;
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+  .active {
+    background: #0b3f4b;
+    color: #fff;
+    border-color: #0b3f4b;
+  }
+}
+

@@ -1,0 +1,2631 @@
+{
+    "brand": {
+        "title": "Nur Pastanesi",
+        "subtitle": "Hagen",
+        "logoPath": "\/assets\/logo.png"
+    },
+    "categories": [
+        {
+            "id": "kahvalti",
+            "title": {
+                "tr": "Kahvaltı1",
+                "de": "Frühstück"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Kahvaltı",
+                    "de": "Frühstück"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Acik Büfe Kahvaltı",
+                            "de": "Offenes Buffet Frühstück"
+                        },
+                        "description": {
+                            "tr": "Sınırsız içerik ve sınırsız içecek ile kişi başı fiyatıdır. Haftanin her günü 09:00-15:00 saatleri arasinda sunulur. | Haftaici : 16.00€ | Haftasonu : 18.00€",
+                            "de": "Preis pro Person inkl. unbegrenzter Speisen und Getränke. Täglich von 09:00 bis 15:00 Uhr. | An Wochentagen : 16.00€ | Am Wochenende : 18.00€"
+                        },
+                        "price": 17.5,
+                        "currency": "Euro",
+                        "imageKey": "1 acik bufe kahvalti"
+                    },
+                    {
+                        "name": {
+                            "tr": "Simit Menü",
+                            "de": "Simit Menü"
+                        },
+                        "description": {
+                            "tr": "Simit, Peynir, Domates, Zeytin",
+                            "de": "Simit, Käse, Tomate, Oliven"
+                        },
+                        "price": 5.99,
+                        "currency": "Euro",
+                        "imageKey": "3 simit menu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kahvalti Tabagi",
+                            "de": "Frühstücksteller"
+                        },
+                        "description": {
+                            "tr": "Beyaz peynir, Kaşar peynir, Zeytin, Salatalık, Domates, Reçel, Tereyağı, Bal, Patlıcan kızartması , Patates kızartması, Haşlanmış yumurta, Ekmek sepeti",
+                            "de": "Weisskäse, Gouda, Oliven, Gurke, Tomate, Marmelade, Butter, Honig, frittierte Aubergine , Pommes, gekochtes Ei, Brot"
+                        },
+                        "price": 8.5,
+                        "currency": "Euro",
+                        "imageKey": "2 kahvalti tabagi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sicak Kahvalti Tabağı",
+                            "de": "Heißes Frühstücksteller"
+                        },
+                        "description": {
+                            "tr": "Sucuklu yumurta, Menemen ya da Omlet. Domates, Salatalik, Zeytin, Gouda Peyniri, Beyaz Peynir, Maydonoz ve Ekmek esliginde sunulur.",
+                            "de": "Ei mit Sucuk, Menemen oder Spiegelei. Tomate, Gurke, Oliven, Gouda, Weisskäse, Petersilie und Brot."
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "179 sicak tabak kahvalti"
+                    }
+                ]
+            },
+            "coverImageKey": "1 acik bufe kahvalti"
+        },
+        {
+            "id": "sahanlar",
+            "title": {
+                "tr": "Sahanlar",
+                "de": "Pfannengerichte"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Sahanlar",
+                    "de": "Pfannengerichte"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Sahanda Yumurta",
+                            "de": "Pfannen- Ei"
+                        },
+                        "description": {
+                            "tr": "Kızdırılmış tereyağına 4 adet yumurta ile",
+                            "de": "4 Spiegelei in Butter angebraten"
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "4 sahanda yumurta"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sahanda Sucuklu Yumurta",
+                            "de": "Ei mit Sucuk in Pfanne"
+                        },
+                        "description": {
+                            "tr": "Dana kasap sucuk ve 4 yumurta ile",
+                            "de": "Sucuk und 4 Spiegelei in Butter angebraten"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "5 sahanda sucuklu yumurta"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sahanda Kiymali Yumurta",
+                            "de": "Ei mit Hackfleisch in Pfanne"
+                        },
+                        "description": {
+                            "tr": "Taze dana kıyma ve 4 yumurta ile",
+                            "de": "Rindhackfleisch und 4 Spiegelei in Butter angebraten"
+                        },
+                        "price": 8.5,
+                        "currency": "Euro",
+                        "imageKey": "6 sahanda kiymali yumurta"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sahanda Menemen",
+                            "de": "Menemen in Pfanne"
+                        },
+                        "description": {
+                            "tr": "Taze Domates, Biber ve 2 yumurta ile",
+                            "de": "Frische Tomaten, Paprika und 2 Eier"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "6 sahanda menemen"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sahanda Sucuklu Menemen",
+                            "de": "Menemen mit Sucuk in Pfanne"
+                        },
+                        "description": {
+                            "tr": "Taze Domates, Biber, Dana kasap sucuk ve 2 yumurta ile",
+                            "de": "Frische Tomaten, Paprika, Sucuk und 2 Eier"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "7 sahanda sucuklu menemen"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sahanda Kiymali Menemen",
+                            "de": "Menemen mit Hackfleisch in Pfanne"
+                        },
+                        "description": {
+                            "tr": "Taze Domates, Biber, Dana kıyma ve 2 yumurta ile",
+                            "de": "Frische Tomaten, Paprika, Rindhackfleisch und 2 Eier"
+                        },
+                        "price": 8.5,
+                        "currency": "Euro",
+                        "imageKey": "8 kiymakli menemen"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Malzeme",
+                            "de": "Extra"
+                        },
+                        "description": {
+                            "tr": "Beyaz peynir, Kaşar peynir, Yumurta, Sucuk, Kıyma",
+                            "de": "Weisskäse, Gouda, Ei, Sucuk, Rindhackfleisch"
+                        },
+                        "price": 1,
+                        "currency": "Euro",
+                        "imageKey": "9 SAHANDA ilave malzeme"
+                    }
+                ]
+            },
+            "coverImageKey": "4 sahanda yumurta"
+        },
+        {
+            "id": "tostlar",
+            "title": {
+                "tr": "Tostlar",
+                "de": "Toast & Sandwiches"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Tostlar",
+                    "de": "Toast & Sandwiches"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Sucuklu Tost",
+                            "de": "Toast mit Sucuk"
+                        },
+                        "description": {
+                            "tr": "Dana sucuklu tost",
+                            "de": "Toast mit Sucuk"
+                        },
+                        "price": 6,
+                        "currency": "Euro",
+                        "imageKey": "10 sucuklu tost"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kasarli Tost",
+                            "de": "Toast mit Gouda"
+                        },
+                        "description": {
+                            "tr": "Taze süt kaşarı",
+                            "de": "Mit Gouda"
+                        },
+                        "price": 6,
+                        "currency": "Euro",
+                        "imageKey": "11 kasarli tost"
+                    },
+                    {
+                        "name": {
+                            "tr": "Karisik Tost",
+                            "de": "Mix Toast"
+                        },
+                        "description": {
+                            "tr": "Taze kaşar peynir ve Dana kasap sucuğu",
+                            "de": "Gouda und Sucuk"
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "12 karisik tost"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Malzeme",
+                            "de": "Extra"
+                        },
+                        "description": {
+                            "tr": "Beyaz peynir, Kaşar peynir, Mozarella, Yumurta, Sucuk, Kıyma, Patates, Ispanak, Çikolata",
+                            "de": "Weisskäse, Gouda, Mozarella, Ei, Sucuk, Hackfleisch, Kartoffel, Spinat, Schokolade"
+                        },
+                        "price": 1,
+                        "currency": "Euro",
+                        "imageKey": "18 gozleme ilave malzeme"
+                    }
+                ]
+            },
+            "coverImageKey": "10 sucuklu tost"
+        },
+        {
+            "id": "gözlemeler",
+            "title": {
+                "tr": "Gözlemeler",
+                "de": "Gözleme"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Gözlemeler",
+                    "de": "Gözleme"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Peynirli Gözleme",
+                            "de": "Gözleme mit Käse"
+                        },
+                        "description": {
+                            "tr": "Taze beyaz peynir",
+                            "de": "Weisskäse"
+                        },
+                        "price": 6,
+                        "currency": "Euro",
+                        "imageKey": "13 peynirli gozleme"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ispanakli ve Peynirli Gözleme",
+                            "de": "Gözleme mit Käse und Spinat"
+                        },
+                        "description": {
+                            "tr": "Taze ıspanak ve beyaz peynir",
+                            "de": "Spinat und Weisskäse"
+                        },
+                        "price": 6,
+                        "currency": "Euro",
+                        "imageKey": "14 ispanak peynir gozleme"
+                    },
+                    {
+                        "name": {
+                            "tr": "Patatesli Gözleme",
+                            "de": "Gözleme mit Kartoffel"
+                        },
+                        "description": {
+                            "tr": "Haşlanmış pul biber, tuz ve sogan ile marine edilmis patates",
+                            "de": "Kartoffel mit Chilli, Salz und Zwiebel"
+                        },
+                        "price": 6,
+                        "currency": "Euro",
+                        "imageKey": "15 patatesli gozleme"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kiymali ve Kasarli Gözleme",
+                            "de": "Gözleme mit Hackfleisch und Gouda"
+                        },
+                        "description": {
+                            "tr": "Dana kıyma ve taze kaşar peyniri",
+                            "de": "Hackfleisch und Gouda"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "16 kiymali kasarli gozleme"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cikolatali Gözleme",
+                            "de": "Gözleme mit Schokolade"
+                        },
+                        "description": {
+                            "tr": "Sütlü çikolata ile",
+                            "de": "Schokolade"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "17 cikilatali gozleme"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Malzeme",
+                            "de": "Extra"
+                        },
+                        "description": {
+                            "tr": "Beyaz peynir, Kaşar peynir, Mozarella, Yumurta, Sucuk, Kıyma, Patates, Ispanak, Çikolata",
+                            "de": "Weisskäse, Gouda, Mozarella, Ei, Sucuk, Hackfleisch, Kartoffel, Spinat, Schokolade"
+                        },
+                        "price": 1,
+                        "currency": "Euro",
+                        "imageKey": "18 gozleme ilave malzeme"
+                    }
+                ]
+            },
+            "coverImageKey": "13 peynirli gozleme"
+        },
+        {
+            "id": "corbalar",
+            "title": {
+                "tr": "Corbalar",
+                "de": "Suppen"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Corbalar",
+                    "de": "Suppen"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Mercimek Corbasi",
+                            "de": "Linsensuppe"
+                        },
+                        "description": {
+                            "tr": "Taze süzme mercimek çorbası kızarmış ekmek ve garnitür ile servis edilir",
+                            "de": "Linsensuppe, Brott(gebraten) und Garnitur wird serviert"
+                        },
+                        "price": 6,
+                        "currency": "Euro",
+                        "imageKey": "19 mercimek corbasi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kelle Paca Corbasi",
+                            "de": "Kelle-Paca Suppe"
+                        },
+                        "description": {
+                            "tr": "Şefimizin elinden günlük hazırlanan taze kellepaça çorbası kızarmış ekmek ve garnitür ile servis edilir",
+                            "de": "Kelle-Paca Suppe, Brott(gebraten) und Garnitur werden serviert"
+                        },
+                        "price": 7.5,
+                        "currency": "Euro",
+                        "imageKey": "20 kellepaca"
+                    },
+                    {
+                        "name": {
+                            "tr": "Iskembe Corbasi",
+                            "de": "Kuttelsuppe"
+                        },
+                        "description": {
+                            "tr": "Şefimizin elinden günlük hazırlanan taze işkembe çorbası kızarmış ekmek ve garnitür ile servis edilir. GÜNE ÖZELDIR.",
+                            "de": "Kuttelsuppe, Brott(gebraten) und Garnitur werden serviert. Tagesspezialität."
+                        },
+                        "price": 7.5,
+                        "currency": "Euro",
+                        "imageKey": "21 iskembe corbasi"
+                    }
+                ]
+            },
+            "coverImageKey": "19 mercimek corbasi"
+        },
+        {
+            "id": "atistirmaliklar",
+            "title": {
+                "tr": "Atistirmaliklar",
+                "de": "Snacks"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Atistirmaliklar",
+                    "de": "Snacks"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Citir Tavuk Mix",
+                            "de": "Crispy Chicken Mix"
+                        },
+                        "description": {
+                            "tr": "2 adet Sogan halkasi, 2 Tavuk Nuggets, 2 Mozzarella Cubugu, 2 Tavuk Filesi, 2 Krokette, 2 Chili Cheese Nuggets, Patates Kizartmasi, Ketchup & Mayonnaise",
+                            "de": "2 Zwiebelringe, 2 Chicken Nuggets, 2 Mozzarella Sticks, 2 Chicken Filet Bites, 2 Kroketten, 2 Chili Cheese Nuggets, Pommes frites, Ketchup & Mayonnaise"
+                        },
+                        "price": 10.9,
+                        "currency": "Euro",
+                        "imageKey": "167 crispy mix"
+                    },
+                    {
+                        "name": {
+                            "tr": "Citir Kanat Menü",
+                            "de": "Crispy Wing Menü"
+                        },
+                        "description": {
+                            "tr": "6 adet pane edilmis citir tavuk kanadi, Patates kizartmasi, Ketchup & Mayonnaise",
+                            "de": "6 panierte Hähnchenflügel, Pommes frites, Ketchup & Mayonnaise"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "168 crispy kanat"
+                    },
+                    {
+                        "name": {
+                            "tr": "Citir Tavuk Fileto",
+                            "de": "Chicken Filet Bites"
+                        },
+                        "description": {
+                            "tr": "6 adet pane edilmis citir tavuk parcasi, Patates kizartmasi, Ketchup & Mayonnaise",
+                            "de": "6 panierte Hähnchenbrustfilet-Stücke, Pommes frites, Ketchup & Mayonnaise"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "169 crispy gogus"
+                    },
+                    {
+                        "name": {
+                            "tr": "Citir Tavuk Parcalari",
+                            "de": "Chicken Filet"
+                        },
+                        "description": {
+                            "tr": "6 adet pane edilmis citir tavuk parcasi, Patates kizartmasi, Ketchup & Mayonnaise",
+                            "de": "6 panierte Hähnchenbrustfilet-Stücke, Pommes frites, Ketchup & Mayonnaise"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "173 citir parca"
+                    },
+                    {
+                        "name": {
+                            "tr": "Icli Köfte",
+                            "de": "Icli Köfte"
+                        },
+                        "description": {
+                            "tr": "2 adet 7,50€ | \n4 adet 12,90€",
+                            "de": "2 Stück 7,50€ | \n4 Stück 12,90€"
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "22 icli kofte"
+                    },
+                    {
+                        "name": {
+                            "tr": "Aile Boyu Cig Köfte",
+                            "de": "Cig Köfte Familienpaket"
+                        },
+                        "description": {
+                            "tr": "1 Kilo, lavaş ve yeşillikle beraber servis edilir",
+                            "de": "1 Kilo, Brott(Teig) und Salat"
+                        },
+                        "price": 22.9,
+                        "currency": "Euro",
+                        "imageKey": "158 aile boyu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cigköfte Porsiyon",
+                            "de": "Cigköfte Portion"
+                        },
+                        "description": {
+                            "tr": "10 adet, lavaş ve yeşillikle beraber servis edilir",
+                            "de": "10 Stück, Brott(Teig) und Salat"
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "23 cigkofte 8 sikim"
+                    },
+                    {
+                        "name": {
+                            "tr": "Porsiyon Falafel",
+                            "de": "Portion Falafel"
+                        },
+                        "description": {
+                            "tr": "8 adet falafel, Salata ve Patates Kızartması ile servis edilir",
+                            "de": "8 Stück Falafel, Salat und Pommes"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "49 porsiyon falafel"
+                    },
+                    {
+                        "name": {
+                            "tr": "Nuggets",
+                            "de": "Nuggets"
+                        },
+                        "description": {
+                            "tr": "7 adet Nuggets, Patates kızartması ve sos ile servis edilir",
+                            "de": "7 Stück Nuggets, Pommes und Sauce"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "24 nuggets"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sosis Tabagi",
+                            "de": "Sosis Teller"
+                        },
+                        "description": {
+                            "tr": "Patates Kızartması, Mayonez ve Ketçap ile servis edilir",
+                            "de": "Pommes, Petersilie und Ketchup"
+                        },
+                        "price": 10.9,
+                        "currency": "Euro",
+                        "imageKey": "25 sosis menu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Patates Kizartmasi",
+                            "de": "Pommes"
+                        },
+                        "description": {
+                            "tr": "Mayonez ve Ketçap ile servis edilir",
+                            "de": "Mayo und Ketchup"
+                        },
+                        "price": 4.5,
+                        "currency": "Euro",
+                        "imageKey": "72 patates kizartmasi"
+                    }
+                ]
+            },
+            "coverImageKey": "22 icli kofte"
+        },
+        {
+            "id": "burgerler",
+            "title": {
+                "tr": "Burgerler",
+                "de": "Burger"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Burgerler",
+                    "de": "Burger"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Cocuk Cheeseburger",
+                            "de": "Kunder Cheeseburger"
+                        },
+                        "description": {
+                            "tr": "1 x Steak, Sauce, Cheddar Peyniri",
+                            "de": "1 x Steak, Sauce, Cheddar Käse"
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "153 cocuk burger"
+                    },
+                    {
+                        "name": {
+                            "tr": "Double Cheeseburger",
+                            "de": "Double Cheeseburger"
+                        },
+                        "description": {
+                            "tr": "2x100 gr Biftek Eti, Domates, Marul, Turşu, Cheddar Peyniri ve Sos",
+                            "de": "2x100 gr Rindfleisch, Tomate, Salat, Gewürzgurke, Cheddar Käse und Sauce"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "27 double cheese burger"
+                    },
+                    {
+                        "name": {
+                            "tr": "Double Hamburger",
+                            "de": "Double Hamburger"
+                        },
+                        "description": {
+                            "tr": "2x100 gr Biftek Eti, Domates, Marul, Turşu ve Sos",
+                            "de": "2x100 gr Rindfleisch, Tomate, Salat, Gewürzgurke und Sauce"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "28 double hamburger"
+                    },
+                    {
+                        "name": {
+                            "tr": "Double Tavuk Burger",
+                            "de": "Double Hähnchen Burger"
+                        },
+                        "description": {
+                            "tr": "2x100 gr Tavuk Eti, Domates, Marul, Turşu ve Sos",
+                            "de": "2x100 gr Hühnchen Fleisch, Tomate, Salat, Gewürzgurke und Sauce"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "29 double tavuk burger"
+                    },
+                    {
+                        "name": {
+                            "tr": "Burger Menü",
+                            "de": "Burger Menü"
+                        },
+                        "description": {
+                            "tr": "Burgerinizin yanına ilave patates kızartması ve seçeceğiniz içecek ile menüye çevirin!",
+                            "de": "Ein Menü mit zusätzlichen Pommes und einem Getränk nach Wahl"
+                        },
+                        "price": 14.9,
+                        "currency": "Euro",
+                        "imageKey": "30 burger menu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Patates Kizartmasi (Ekstra)",
+                            "de": "Pommes(Extra)"
+                        },
+                        "description": {
+                            "tr": "Burgerinizin yanına ilave patates kızartması",
+                            "de": "Extra Pommes"
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "72 patates kizartmasi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Malzeme",
+                            "de": "Ilave Malzeme"
+                        },
+                        "description": {
+                            "tr": "Burgerinize ilave Karamelize Soğan, Patlıcan Ezmesi veya Mantar",
+                            "de": "Zusätzliche Zutaten für Ihren Burger: karamellisierte Zwiebeln, Auberginenpüree oder Champignons"
+                        },
+                        "price": 1,
+                        "currency": "Euro",
+                        "imageKey": "32 burger extra"
+                    }
+                ]
+            },
+            "coverImageKey": "27 double cheese burger"
+        },
+        {
+            "id": "pideler",
+            "title": {
+                "tr": "Pideler",
+                "de": "Pide & Lahmacun"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Pideler",
+                    "de": "Pide & Lahmacun"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Lahmacun",
+                            "de": "Lahmacun"
+                        },
+                        "description": {
+                            "tr": "Dana ve kuzu kıymalı lahmacun, limon ve maydanoz ile servis edilir",
+                            "de": "Lahmacun aus Rinder- und Lammhackfleisch, dazu Zitrone und frische Petersilie"
+                        },
+                        "price": 4.9,
+                        "currency": "Euro",
+                        "imageKey": "33 lahmacun"
+                    },
+                    {
+                        "name": {
+                            "tr": "Lahmacun Menü",
+                            "de": "Lahmacun Menü"
+                        },
+                        "description": {
+                            "tr": "Ekstra Salata ve meze ile servis edilir",
+                            "de": "Extra Salat und Beilagen"
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "34 lahmacun menu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dönerli Lahmacun Menü",
+                            "de": "Dönerli Lahmacun Menü"
+                        },
+                        "description": {
+                            "tr": "Lahmacun üstüne döner eklenir. Salata ve meze ile servis edilir",
+                            "de": "Lahmacun mit Döner. Dazu noch Salat und Beilagen"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "35 donerli lahmacun"
+                    },
+                    {
+                        "name": {
+                            "tr": "Karadeniz Usülü Pide",
+                            "de": "Karadeniz Usülü Pide"
+                        },
+                        "description": {
+                            "tr": "Dana kıymadan yapılan karadeniz usulü pide, Salata ve meze ile servis edilir",
+                            "de": "Karadeniz Pide mit Rindhackfleisch, Salat und Beilagen"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "36 kiymali pide"
+                    },
+                    {
+                        "name": {
+                            "tr": "Konya Usülü Pide",
+                            "de": "Konya Usülü Pide"
+                        },
+                        "description": {
+                            "tr": "Dana kıymadan yapılan karadeniz usulü pide, Salata ve meze ile servis edilir",
+                            "de": "Konya Pide mit Rindhackfleisch, Salat und Beilagen"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "160 pide konya"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kusbasili Pide",
+                            "de": "Kusbasili Pide"
+                        },
+                        "description": {
+                            "tr": "Dana kuşbaşı etinden yapılan pide, Salata ve meze ile servis edilir",
+                            "de": "Pide mit Rindfleisch Stücke, Salat und Beilagen"
+                        },
+                        "price": 13.9,
+                        "currency": "Euro",
+                        "imageKey": "37 kusbasili pide"
+                    },
+                    {
+                        "name": {
+                            "tr": "Konya Usulü Kusbasili Pide",
+                            "de": "Kusbasili Pide Konya Art"
+                        },
+                        "description": {
+                            "tr": "Dana kuşbaşı etinden yapılan pide, Salata ve meze ile servis edilir",
+                            "de": "Pide mit Rindfleisch Stücke, Salat und Beilagen"
+                        },
+                        "price": 14.9,
+                        "currency": "Euro",
+                        "imageKey": "174 konya kusbasi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kasarli Pide",
+                            "de": "Pide mit Gouda"
+                        },
+                        "description": {
+                            "tr": "Taze kaşarli pide, Salata ve meze ile servis edilir",
+                            "de": "Pide mit Gouda, Salat und Beilagen"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "38 kasarli pide"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sucuklu Kasarli Pide",
+                            "de": "Pide mit Gouda und Sucuk"
+                        },
+                        "description": {
+                            "tr": "Dana sucuklu ve taze kasarli pide , Salata ve meze ile servis edilir",
+                            "de": "Pide mit Gouda und Sucuk, Salat und Beilagen"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "39 sucuklu kasarli"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dönerli Kasarli Pide",
+                            "de": "Pide mit Döner und Gouda"
+                        },
+                        "description": {
+                            "tr": "Dana döner ve taze süt kaşarli pide, Salata ve meze ile servis edilir",
+                            "de": "Pide mit Döner und Gouda, Salat und Beilagen"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "40 donerli kasarli pide"
+                    }
+                ]
+            },
+            "coverImageKey": "33 lahmacun"
+        },
+        {
+            "id": "pizzalar",
+            "title": {
+                "tr": "Pizzalar",
+                "de": "Pizza"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Pizzalar",
+                    "de": "Pizza"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Margarita Pizza",
+                            "de": "Margarita Pizza"
+                        },
+                        "description": {
+                            "tr": "Domates soslu mozzarella peynirli pizza",
+                            "de": "Pizza mit Tomatensauce und Mozzarella"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "41 margarita pizza"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ton Balikli Pizza",
+                            "de": "Thunfisch Pizza"
+                        },
+                        "description": {
+                            "tr": "Ustamızın elinden ton balıklı pizza",
+                            "de": "Thunfisch Pizza"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "42 ton balikli pizza"
+                    },
+                    {
+                        "name": {
+                            "tr": "Funghi Pizza",
+                            "de": "Funghi Pizza"
+                        },
+                        "description": {
+                            "tr": "Taze mantarlı pizza",
+                            "de": "Pizza mit Champignons"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "43 Funghi pizza"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sucuklu Pizza",
+                            "de": "Pizza mit Sucuk"
+                        },
+                        "description": {
+                            "tr": "Dana sucuklu pizza",
+                            "de": "Pizza mit Sucuk"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "44 sucuklu pizza"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dönerli Pizza",
+                            "de": "Pizza mit Döner"
+                        },
+                        "description": {
+                            "tr": "Özel dönerli pizza",
+                            "de": "Pizza mit Döner"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "154 donerli pizza"
+                    },
+                    {
+                        "name": {
+                            "tr": "Karisik Pizza",
+                            "de": "Pizza Gemischt"
+                        },
+                        "description": {
+                            "tr": "İsteğe göre seçeceğiniz malzemelerle karışık pizza",
+                            "de": "Pizza mit ausgewählten Zutaten"
+                        },
+                        "price": 13.9,
+                        "currency": "Euro",
+                        "imageKey": "46 karisik pizza"
+                    }
+                ]
+            },
+            "coverImageKey": "41 margarita pizza"
+        },
+        {
+            "id": "makarnalar",
+            "title": {
+                "tr": "Makarnalar",
+                "de": "Nudeln"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Makarnalar",
+                    "de": "Nudeln"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Sarimsakli Yogurtlu Manti",
+                            "de": "Manti mit Jogurth-Knoblauch"
+                        },
+                        "description": {
+                            "tr": "Taze mantı, salçalı sos ve sarımsaklı yoğurt",
+                            "de": "Manti, Tomatensosse und Knoblauchjogurt"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "50 manti"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kremali Makarna",
+                            "de": "Nudeln mit Sahne"
+                        },
+                        "description": {
+                            "tr": "Penne makarna ile servis edilir",
+                            "de": "Penne Nudeln mit Sahnesosse"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "51 kremali makarna"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kremali Mantarli Makarna",
+                            "de": "Nudeln mit Pilzen und Sahne"
+                        },
+                        "description": {
+                            "tr": "Penne makarna ile servis edilir",
+                            "de": "Penne Nudeln mit Pilzen und Sahne"
+                        },
+                        "price": 10.9,
+                        "currency": "Euro",
+                        "imageKey": "52 kremali mantarli makarna"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kremali Tavuklu Makarna",
+                            "de": "Nudeln mit Hühnchen und Sahne"
+                        },
+                        "description": {
+                            "tr": "Penne makarna ile servis edilir",
+                            "de": "Penne Nudeln mit Hühnchen und Sahne"
+                        },
+                        "price": 10.9,
+                        "currency": "Euro",
+                        "imageKey": "53 kremali mantarli makarna"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kiymali Bolonez Makarna",
+                            "de": "Bolonez Nudeln"
+                        },
+                        "description": {
+                            "tr": "Penne makarna ile servis edilir",
+                            "de": "Penne Nudeln mit Tomaten-Hackfleisch Sosse"
+                        },
+                        "price": 10.9,
+                        "currency": "Euro",
+                        "imageKey": "54 kiymali bolonez makarna"
+                    },
+                    {
+                        "name": {
+                            "tr": "Domates Soslu Makarna",
+                            "de": "Nudeln mit Tomatensosse"
+                        },
+                        "description": {
+                            "tr": "Penne makarna ile servis edilir",
+                            "de": "Penne Nudeln mit Tomatensosse"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "55 domates soslu makarna"
+                    },
+                    {
+                        "name": {
+                            "tr": "Peynirli Makarna",
+                            "de": "Nudeln mit Käse"
+                        },
+                        "description": {
+                            "tr": "Penne makarna, 3 çeşit peynir kulanılarak oluşturulan özel sos ile",
+                            "de": "Penne Nudeln mit einer Käsesosse aus 3 verschiedenen Käsesorten"
+                        },
+                        "price": 10.9,
+                        "currency": "Euro",
+                        "imageKey": "56 pernirli makarna"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Firinda Kasar",
+                            "de": "Überbacken"
+                        },
+                        "description": {
+                            "tr": "Makarnanızın üzerine fırında eritilmiş ve kızartılmış taze kaşar peyniri ilavesi",
+                            "de": "Käseüberbacken"
+                        },
+                        "price": 2,
+                        "currency": "Euro",
+                        "imageKey": "57 firinda makarna"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Ek Malzeme",
+                            "de": "Extra"
+                        },
+                        "description": {
+                            "tr": "Makarnanızın üzerine talep edeceğiniz her bir ek malzeme için",
+                            "de": "Zusätzliche Zutaten nach Wunsch"
+                        },
+                        "price": 1,
+                        "currency": "Euro",
+                        "imageKey": "157 ilave"
+                    }
+                ]
+            },
+            "coverImageKey": "50 manti"
+        },
+        {
+            "id": "izgaralar",
+            "title": {
+                "tr": "Izgaralar",
+                "de": "Grillgerichte"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Izgaralar",
+                    "de": "Grillgerichte"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Porsiyon Köfte",
+                            "de": "Portion Köfte"
+                        },
+                        "description": {
+                            "tr": "6 adet (300 gr) ızgara köfte, lavas, Salata, Patates kızartması ve Meze ile servis edilir",
+                            "de": "6 Stück (300 gr) Gegrillte Köfte, Brott(Teig), Salat, Pommes und Beilagen"
+                        },
+                        "price": 17.9,
+                        "currency": "Euro",
+                        "imageKey": "58 porsiyon kofte"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dürüm Köfte",
+                            "de": "Dürüm Köfte"
+                        },
+                        "description": {
+                            "tr": "Lavaşta 4 adet ızgara köfte, Salata, Patates kızartması ve meze",
+                            "de": "Brott(Teig) 4 Stück Izgara Köfte, Salat, Pommes und Beilagen"
+                        },
+                        "price": 13.9,
+                        "currency": "Euro",
+                        "imageKey": "59 durum kofte"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ekmek Arası Köfte",
+                            "de": "Köfte Sandwich"
+                        },
+                        "description": {
+                            "tr": "Büyük sandviç ekmeğine 4 adet (200 gr) Kasap köfte, Salata, Patates kızartması, Meze ve Sos",
+                            "de": "4 Stück (200 gr) Köfte, Salat, Pommes, Beilagen und Sauce"
+                        },
+                        "price": 13.9,
+                        "currency": "Euro",
+                        "imageKey": "60 ekmek arasi kofte"
+                    },
+                    {
+                        "name": {
+                            "tr": "Porsiyon Tavuk Sis",
+                            "de": "Portion Hähnchenspiess"
+                        },
+                        "description": {
+                            "tr": "260 gr Izgara tavuk parçaları, Salata, Patates kızartması ve Lavaş ile servis edilir",
+                            "de": "260 gr Gegrillte Hühnerstücke, Salat, Pommes und Brott(Teig)"
+                        },
+                        "price": 17.9,
+                        "currency": "Euro",
+                        "imageKey": "61 porsiyon tavuk sis"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dürüm Tavuk Sis",
+                            "de": "Dürüm Hähnchenspiess"
+                        },
+                        "description": {
+                            "tr": "Lavaşta 180 gr ızgara tavuk, Salata, Patates kızartması",
+                            "de": "9 Stück Gegrillte Hühnerstücke, Salat, Pommes"
+                        },
+                        "price": 13.9,
+                        "currency": "Euro",
+                        "imageKey": "62 durum tavuk sis"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ekmek Arası Tavuk Sis",
+                            "de": "Köfte Sandwich"
+                        },
+                        "description": {
+                            "tr": "Büyük sandviç ekmeğine 180 gr Izgara tavuk, Salata, Patates kızartması",
+                            "de": "180 gr Gegrillte Hühnerstücke, Salat, Pommes"
+                        },
+                        "price": 13.9,
+                        "currency": "Euro",
+                        "imageKey": "63 ekmek arasi tavuk sis"
+                    },
+                    {
+                        "name": {
+                            "tr": "Tavuk Sote",
+                            "de": "Hähnchenpfanne"
+                        },
+                        "description": {
+                            "tr": "Izgara tavuk, Salata, Makarna ya da Patates kızartması, Sos ve Tırnaklı pide",
+                            "de": "Gegrillte Hühnerstücke, Salat, Nudeln oder Pommes, Sauce und Brott"
+                        },
+                        "price": 15.9,
+                        "currency": "Euro",
+                        "imageKey": "65 tavuk sote"
+                    },
+                    {
+                        "name": {
+                            "tr": "Mantar Sote",
+                            "de": "Gebratene Pilze in Tomatensauce"
+                        },
+                        "description": {
+                            "tr": "Kızarmış mantar, Salata, Patates kızartması ile servis edilir",
+                            "de": "Gegrillte Pilze, Salat und Pommes"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "68 mantar sote"
+                    },
+                    {
+                        "name": {
+                            "tr": "Tavuk Sac Tava",
+                            "de": "Hähnchenpfanne nach türkischer Art (Sac-Tava)"
+                        },
+                        "description": {
+                            "tr": "260 gr Izgara tavuk, Salata, Sos ve Tırnaklı pide",
+                            "de": "260 gr Gegrillte Hühnerstücke, Salat, Sauce und Brott"
+                        },
+                        "price": 17.9,
+                        "currency": "Euro",
+                        "imageKey": "66 tavuk sac tava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Et Sac Tava",
+                            "de": "Rindfleischpfanne nach türkischer Art (Sac-Tava)"
+                        },
+                        "description": {
+                            "tr": "260 gr Dana bonfile, Salata, Sos ve Tırnaklı pide",
+                            "de": "260 gr Rindfleisch, Salat, Sauce und Brott"
+                        },
+                        "price": 18.9,
+                        "currency": "Euro",
+                        "imageKey": "67 et sac tava"
+                    }
+                ]
+            },
+            "coverImageKey": "58 porsiyon kofte"
+        },
+        {
+            "id": "dönerler",
+            "title": {
+                "tr": "Dönerler",
+                "de": "Döner"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Dönerler",
+                    "de": "Döner"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Dürüm Döner",
+                            "de": "Dürüm Döner"
+                        },
+                        "description": {
+                            "tr": "170 gram Et veya Tavuk Döner, Kokteyl sos, Acı sos, Cacık , Kırmızı lahana, Beyaz lahana, Soğan, Salatalık, Domates",
+                            "de": "170 gram Döner, Cocktail-Sauce, scharfe Sauce, Cacık , Rotkohl, Weißkohl, Zwiebel, Gurke, Tomate"
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "70 doner durum"
+                    },
+                    {
+                        "name": {
+                            "tr": "Porsiyon Döner",
+                            "de": "Portion Döner"
+                        },
+                        "description": {
+                            "tr": "300 gram Et Döner, Patates Kizartmasi, Salata ve Sos",
+                            "de": "300 gram Döner, Pommes, Salat und Sauce"
+                        },
+                        "price": 16.9,
+                        "currency": "Euro",
+                        "imageKey": "71 porsiyon doner"
+                    }
+                ]
+            },
+            "coverImageKey": "69 ekmek arasi doner"
+        },
+        {
+            "id": "salatalar",
+            "title": {
+                "tr": "Salatalar",
+                "de": "Salate"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Salatalar",
+                    "de": "Salate"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Mevsim Salata",
+                            "de": "Gemischter Salat"
+                        },
+                        "description": {
+                            "tr": "Mevsime özel, taze sebzelerden oluşan salata",
+                            "de": "Salat aus frischem, saisonalem Gemüse"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "74 mevsim salata"
+                    },
+                    {
+                        "name": {
+                            "tr": "Tavuklu Salata",
+                            "de": "Salat mit Hähnchen"
+                        },
+                        "description": {
+                            "tr": "Izgara tavuk parçalarıyla zenginleştirilmiş salata",
+                            "de": "Salat mit Gegrillten Hühnerstücke"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "75 tavuklu salata"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ton Balıklı Salata",
+                            "de": "Salat mit Thunfisch"
+                        },
+                        "description": {
+                            "tr": "Ton balığı, taze sebzeler ve yeşilliklerle bir araya getirilerek hazırlanan salata",
+                            "de": "Salat mit Thunfisch, frischem Gemüse und Kräutern"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "76 tonbalikli salata"
+                    },
+                    {
+                        "name": {
+                            "tr": "Meze Tabagi",
+                            "de": "Meze Teller"
+                        },
+                        "description": {
+                            "tr": "Güne özel mezelerimiz",
+                            "de": "Tagesspezialität"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "176 meze tabak"
+                    }
+                ]
+            },
+            "coverImageKey": "74 mevsim salata"
+        },
+        {
+            "id": "Waffel",
+            "title": {
+                "tr": "Waffel",
+                "de": "Waffeln"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Waffel",
+                    "de": "Waffeln"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Pudra Sekerli Waffel",
+                            "de": "Waffel mit Puderzucker"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "140 Waffel Puderzucker"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kremali ve sicak Visneli Waffel",
+                            "de": "Waffel mit Sahne und Kirschen"
+                        },
+                        "description": {
+                            "tr": "Kremali ve Sicak Visneli Waffel",
+                            "de": "Waffel mit Sahne und Kirschen"
+                        },
+                        "price": 7.5,
+                        "currency": "Euro",
+                        "imageKey": "141 visne waffel"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kremali Cilekli Waffel",
+                            "de": "Waffel mit Sahne und Erdbeeren"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.5,
+                        "currency": "Euro",
+                        "imageKey": "151 cilekli waffel"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cikolatali Waffel",
+                            "de": "Waffel mit Schokolade"
+                        },
+                        "description": {
+                            "tr": "Cikolata Cesitlerimiz: Lotus - Fistik",
+                            "de": "Schoko Sorten: Lotus - Pistazien"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "152 waffel karisik"
+                    }
+                ]
+            },
+            "coverImageKey": "140 Waffel Puderzucker"
+        },
+        {
+            "id": "künefe",
+            "title": {
+                "tr": "Künefe & Katmer",
+                "de": "Künefe & Katmer"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Künefe & Katmer",
+                    "de": "Künefe & Katmer"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Peynirli Künefe",
+                            "de": "Künefe mit Käse"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "77 kunefe normal"
+                    },
+                    {
+                        "name": {
+                            "tr": "Peynirli ve Fistikli Künefe",
+                            "de": "Künefe mit Käse und Pistazien"
+                        },
+                        "description": {
+                            "tr": "YAKINDA",
+                            "de": "KOMMT BALD"
+                        },
+                        "price": null,
+                        "currency": "Euro",
+                        "imageKey": "77 peynirli kunefe"
+                    },
+                    {
+                        "name": {
+                            "tr": "Katmer",
+                            "de": "Katmer"
+                        },
+                        "description": {
+                            "tr": "Ince hamurdan yapilmis, fistik ve kaymak dolgulu, firinda pisirilen geleneksel tatlimiz. Sicak servis edilir.",
+                            "de": "Traditionelles türkisches Dessert aus hauchdünnem Teig, gefüllt mit Pistazien und Kaymak, knusprig gebacken und warm serviert"
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "156 katmer"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cikolatali Katmer",
+                            "de": "Katmer mit Schokolade"
+                        },
+                        "description": {
+                            "tr": "Ince hamurdan yapilmis, fistik ve kaymak dolgulu, firinda pisirilen geleneksel tatlimiz. Sicak servis edilir. Cikolata cesitlerimiz : Standart Cikolata - Fistik Aromali Cikolata - Lotus Aromali Cikolata - Dubai Cikolata.",
+                            "de": "Knusprig gebackener, hauchdünner Teig, gefüllt mit zartschmelzender Schokolade und Kaymak warm serviert. Schoko Sorten : Standart Schoko - Schoko mit Pistazien - Schoko mit Lotus - Dubai Schoko"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "155 cikolatali katmer"
+                    },
+                    {
+                        "name": {
+                            "tr": "Maras Dondurma",
+                            "de": "Maras Eis"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "78 maras dondurmasi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kaymak",
+                            "de": "Kaymak"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 1.5,
+                        "currency": "Euro",
+                        "imageKey": "79 kaymak"
+                    }
+                ]
+            },
+            "coverImageKey": "77 peynirli kunefe"
+        },
+        {
+            "id": "serbetli",
+            "title": {
+                "tr": "Serbetli Tatlılar",
+                "de": "Syrup-Desserts"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Serbetli Tatlılar",
+                    "de": "Syrup-Desserts"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Fistikli Sarma",
+                            "de": "Fistikli Sarma"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "121 fistik sarma"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Kuru Baklava",
+                            "de": "Kuru Baklava mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2.2,
+                        "currency": "Euro",
+                        "imageKey": "122 kuru baklava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Havuc Dilimi",
+                            "de": "Havuc Dilimi mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 5.5,
+                        "currency": "Euro",
+                        "imageKey": "123 havuc dilimi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Dondurmali Havuc Dilimi",
+                            "de": "Havuc Dilimi mit Eis und Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "124 dondurmali havuc dilimi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Baklava",
+                            "de": "Baklava mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2.2,
+                        "currency": "Euro",
+                        "imageKey": "125 fistikli baklava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Midye",
+                            "de": "Midye mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2.2,
+                        "currency": "Euro",
+                        "imageKey": "126 fistikli midye"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Söbiyet",
+                            "de": "Söbiyet mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2.2,
+                        "currency": "Euro",
+                        "imageKey": "127 fistikli sobiyet"
+                    },
+                    {
+                        "name": {
+                            "tr": "Findikli Soguk Baklava",
+                            "de": "Kalter Baklava mit Haselnüssen"
+                        },
+                        "description": {
+                            "tr": "Findikli ve cikolatali, dilim",
+                            "de": "Haselnuss und Schokolade, dilim"
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "177 soguk findik baklava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Soguk Baklava",
+                            "de": "Kalter Baklava mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Fistikli ve Cikolatali, dilim",
+                            "de": "Pistazien und Schokolade, dilim"
+                        },
+                        "price": 2.9,
+                        "currency": "Euro",
+                        "imageKey": "178 soguk fistik baklava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Findikli Sarma",
+                            "de": "Findikli Sarma"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2,
+                        "currency": "Euro",
+                        "imageKey": "129 findikli sarma"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cevizli Ev Baklavasi",
+                            "de": "Ev Baklavasi mit Walnüssen"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2,
+                        "currency": "Euro",
+                        "imageKey": "130 cevizli baklava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cevizli Baklava",
+                            "de": "Baklava mit Walnüssen"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 2,
+                        "currency": "Euro",
+                        "imageKey": "130 cevizli baklava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Burma Kadayıf",
+                            "de": "Burma Kadayif mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 3,
+                        "currency": "Euro",
+                        "imageKey": "131 FISTIKLI BURMA KADAYIF"
+                    },
+                    {
+                        "name": {
+                            "tr": "Fistikli Düz Kadayif",
+                            "de": "Düz Kadayif mit Pistazien"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Dilim"
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "132 FISTIKLI DUZ KADAYIF"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sambali",
+                            "de": "Sambali"
+                        },
+                        "description": {
+                            "tr": "Dilim",
+                            "de": "Stück"
+                        },
+                        "price": 2,
+                        "currency": "Euro",
+                        "imageKey": "166 sambali"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Maras Dondurma",
+                            "de": "Extra Maras Eis"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "78 maras dondurmasi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ilave Kaymak",
+                            "de": "Extra Kaymak"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 1.5,
+                        "currency": "Euro",
+                        "imageKey": "79 kaymak"
+                    }
+                ]
+            },
+            "coverImageKey": "121 fistik sarma"
+        },
+        {
+            "id": "geleneksel",
+            "title": {
+                "tr": "Geleneksel Tatlılar",
+                "de": "Traditionelle Desserts"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Geleneksel Tatlılar",
+                    "de": "Traditionelle Desserts"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Firin Sütlac",
+                            "de": "Firin Sütlac"
+                        },
+                        "description": {
+                            "tr": "Fırında üstü kızartılmış, soğuk servis edilen özel fırın sütlaç",
+                            "de": "Firin sütlac wird kalt serviert"
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "80 firin sutlac"
+                    },
+                    {
+                        "name": {
+                            "tr": "Asure",
+                            "de": "Asure"
+                        },
+                        "description": {
+                            "tr": "Güne özel",
+                            "de": "speziell für den Tag"
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "81 asure"
+                    },
+                    {
+                        "name": {
+                            "tr": "Irmik Helvasi",
+                            "de": "Irmik Helvasi"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 4.9,
+                        "currency": "Euro",
+                        "imageKey": "82 irmik helvasi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dondurmali Irmik Helvasi",
+                            "de": "Irmik Helvasi mit Eis"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "83 dondurmali irmik helvasi"
+                    }
+                ]
+            },
+            "coverImageKey": "80 firin sutlac"
+        },
+        {
+            "id": "dondurmalar",
+            "title": {
+                "tr": "Dondurmalar",
+                "de": "Eis"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Dondurmalar",
+                    "de": "Eis"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Dilim Maras Dondurmasi",
+                            "de": "Stück Maras Dondurmasi"
+                        },
+                        "description": {
+                            "tr": "1 dilim sade maraş dondurması",
+                            "de": "1 Stück maraş dondurması"
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "78 maras dondurmasi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kup Dondurma",
+                            "de": "Eisbecher"
+                        },
+                        "description": {
+                            "tr": "Sade, Çikolatalı ve Çilekli maraş dondurmasi",
+                            "de": "Milch, Schokolade und Erdbeere"
+                        },
+                        "price": 3,
+                        "currency": "Euro",
+                        "imageKey": "84 kup dondurma"
+                    }
+                ]
+            },
+            "coverImageKey": "78 maras dondurmasi"
+        },
+        {
+            "id": "pastalar",
+            "title": {
+                "tr": "Pastalar",
+                "de": "Kuchen & Torten"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Pastalar",
+                    "de": "Kuchen & Torten"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Ekler Pasta",
+                            "de": "Ekler Kuchen"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.2,
+                        "currency": "Euro",
+                        "imageKey": "85 ekler pasta"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ekler Lotus",
+                            "de": "Ekler mit Lotus"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.2,
+                        "currency": "Euro",
+                        "imageKey": "149 lotuslu ekler"
+                    },
+                    {
+                        "name": {
+                            "tr": "Brownie",
+                            "de": "Brownie"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "86 browni"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dondurmali Brownie",
+                            "de": "Brownie mit Eis"
+                        },
+                        "description": {
+                            "tr": "1 dilim sade maraş dondurması ile",
+                            "de": "1 Stück Eis und Brownie"
+                        },
+                        "price": 8.5,
+                        "currency": "Euro",
+                        "imageKey": "87 dondurmali browni"
+                    },
+                    {
+                        "name": {
+                            "tr": "Tiramisu",
+                            "de": "Tiramisu"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "88 tramisu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Medovik Pasta",
+                            "de": "Medovik Kuchen"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "89 mevodik"
+                    },
+                    {
+                        "name": {
+                            "tr": "Lotus Cheesecake",
+                            "de": "Lotus Cheesecake"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "90 lotus cheese"
+                    },
+                    {
+                        "name": {
+                            "tr": "San Sebastian Cheesecake",
+                            "de": "San Sebastian Cheesecake"
+                        },
+                        "description": {
+                            "tr": "Sıcak Belçika çikolatası ile servis edilir",
+                            "de": "Es wird mit heißer belgischer Schokolade serviert"
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "91 sansebastian"
+                    },
+                    {
+                        "name": {
+                            "tr": "Trilece",
+                            "de": "Trilece"
+                        },
+                        "description": {
+                            "tr": "Karamelli",
+                            "de": "Karamelli"
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "92 tralice"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cilekli Kare Pasta",
+                            "de": "Kuchen mit Erdbeere"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "93 cilekli kare"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ibiza Pasta",
+                            "de": "Ibiza Kuchen"
+                        },
+                        "description": {
+                            "tr": "Muzlu",
+                            "de": "Muzlu"
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "146 Ibiza"
+                    },
+                    {
+                        "name": {
+                            "tr": "Oreolu Dilim Pasta",
+                            "de": "Stück Kuchen mit Oreo"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "95 kare oreo"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cikolatali Dilim Pasta",
+                            "de": "Stück Kuchen mit Schokolade"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "94 cikolatali kare"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cappuccino Findikli Dilim Pasta",
+                            "de": "Stück Kuchen mit Cappuccino und Haselnüssen"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "95 kare kapicinolu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Opera Pasta",
+                            "de": "Opera Kuchen"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 5.9,
+                        "currency": "Euro",
+                        "imageKey": "96 opera pasta"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ugur Böcegi Pasta",
+                            "de": "Ugur Böcegi Kuchen"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 4.9,
+                        "currency": "Euro",
+                        "imageKey": "97 ugur bocegi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Mini Cilekli Kalp Pasta",
+                            "de": "Mini Herz Kuchen mit Erdbeeren"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "98 kalp pasta cilek"
+                    },
+                    {
+                        "name": {
+                            "tr": "Mini Cikolatali Kalp Pasta",
+                            "de": "Mini Herz Kuchen mit Schokolade"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "175 kalp pasta schoko"
+                    },
+                    {
+                        "name": {
+                            "tr": "Creamy Dubai Baklava",
+                            "de": "Creamy Dubai Baklava"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "148 creamy dubai baklava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cedric Fistik Pasta",
+                            "de": "Cedric Fistik Kuchen"
+                        },
+                        "description": {
+                            "tr": "Fistikli ve cikolatali enfes lezzet",
+                            "de": "Fistikli ve cikolatali enfes lezzet"
+                        },
+                        "price": 9.9,
+                        "currency": "Euro",
+                        "imageKey": "142 Cedric"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dubai Cheesecake",
+                            "de": "Dubai Cheesecake"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "147 dubai cheese"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cikolata Bomba",
+                            "de": "Cikolata Bombe"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "145 cikolata bomba"
+                    },
+                    {
+                        "name": {
+                            "tr": "Dubai Magnolia",
+                            "de": "Dubai Magnolia"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "143 Dubai magnolia"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cilekli Magnolia",
+                            "de": "Magnolia mit Erdbeeren"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "159 cilekli magnolya"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cikolatali Magnolia",
+                            "de": "Magnolia mit Schokolade"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "161 ciko magnolya"
+                    },
+                    {
+                        "name": {
+                            "tr": "Profiterollü Magnolia",
+                            "de": "Profiterollü Magnolia"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "164 profiterol magnolya"
+                    },
+                    {
+                        "name": {
+                            "tr": "Lotuslu Magnolia",
+                            "de": "Magnolia mit Lotus"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 6.9,
+                        "currency": "Euro",
+                        "imageKey": "165 lotuslu magnolya"
+                    }
+                ]
+            },
+            "coverImageKey": "85 ekler pasta"
+        },
+        {
+            "id": "sicak",
+            "title": {
+                "tr": "Sicak Icecekler",
+                "de": "Heißgetränke"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Sicak Icecekler",
+                    "de": "Heißgetränke"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": " Bardak Cay",
+                            "de": " Tasse Tee"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 1.6,
+                        "currency": "Euro",
+                        "imageKey": "99 kucuk cay"
+                    },
+                    {
+                        "name": {
+                            "tr": "Büyük Cay",
+                            "de": "Groß Tee"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.9,
+                        "currency": "Euro",
+                        "imageKey": "100 buyuk cay"
+                    },
+                    {
+                        "name": {
+                            "tr": "Türk Kahvesi",
+                            "de": "Türkischer Kaffee"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "101 turk kahbesi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Osmanli Kahvesi",
+                            "de": "Osmanischer Kaffee"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "102 osmanli kahvesi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Menengic Kahvesi",
+                            "de": "Menengic Kaffee"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "103 menengec kahvesi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Salep",
+                            "de": "Salep"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "104 salep"
+                    },
+                    {
+                        "name": {
+                            "tr": "Espresso",
+                            "de": "Espresso"
+                        },
+                        "description": {
+                            "tr": "Büyük Boy: 3,90",
+                            "de": "Gross: 3,90"
+                        },
+                        "price": 3,
+                        "currency": "Euro",
+                        "imageKey": "105 espresso"
+                    },
+                    {
+                        "name": {
+                            "tr": "Kaffe Creme",
+                            "de": "Kaffe Creme"
+                        },
+                        "description": {
+                            "tr": ""
+                        },
+                        "price": 3.5,
+                        "currency": "Euro",
+                        "imageKey": "106 kaffe creme"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cappuccino",
+                            "de": "Cappuccino"
+                        },
+                        "description": {
+                            "tr": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "106 CAPPUCCINO"
+                    },
+                    {
+                        "name": {
+                            "tr": "Latte Macchiato",
+                            "de": "Latte Macchiato"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "107 LATTE MACCHIATO"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sütlü Kahve",
+                            "de": "Milchkaffee"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "106 CAPPUCCINO"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sicak Cikolata",
+                            "de": "Heiße Schokolade"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "108 sicak cikilata"
+                    },
+                    {
+                        "name": {
+                            "tr": "Meyve Cayi",
+                            "de": "Früchte Tee"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.9,
+                        "currency": "Euro",
+                        "imageKey": "109 meyve cayi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Nane Cayi",
+                            "de": "Minztee"
+                        },
+                        "description": {
+                            "tr": "Bal ile servis edilir.",
+                            "de": "Es wird mit Honig serviert."
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "111 TAZE NANE CAYI"
+                    },
+                    {
+                        "name": {
+                            "tr": "Oralet",
+                            "de": "Oralet"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.9,
+                        "currency": "Euro",
+                        "imageKey": "110 ORALET"
+                    },
+                    {
+                        "name": {
+                            "tr": "Taze Sicak Limon",
+                            "de": "Frische Zitronentee"
+                        },
+                        "description": {
+                            "tr": "Bal ile servis edilir.",
+                            "de": "Es wird mit Honig serviert."
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "111 sicak su ve limonn"
+                    }
+                ]
+            },
+            "coverImageKey": "100 buyuk cay"
+        },
+        {
+            "id": "soguk",
+            "title": {
+                "tr": "Soğuk Icecekler",
+                "de": "Kaltgetränke"
+            },
+            "panel": {
+                "headline": {
+                    "tr": "Soğuk Icecekler",
+                    "de": "Kaltgetränke"
+                },
+                "featured": [
+                    {
+                        "name": {
+                            "tr": "Limonata",
+                            "de": "Limonade"
+                        },
+                        "description": {
+                            "tr": "Ev Yapimi",
+                            "de": "Ev Yapimi"
+                        },
+                        "price": 3.9,
+                        "currency": "Euro",
+                        "imageKey": "112 limonata"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cilekli Limonata",
+                            "de": "Limonade mit Erdbeeren"
+                        },
+                        "description": {
+                            "tr": "Ev Yapimi",
+                            "de": "Ev Yapimi"
+                        },
+                        "price": 4.9,
+                        "currency": "Euro",
+                        "imageKey": "134 Cocktail Strawberry"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ahududulu Limonata",
+                            "de": "Limonade mit Himbeeren"
+                        },
+                        "description": {
+                            "tr": "Ev Yapimi",
+                            "de": "Ev Yapimi"
+                        },
+                        "price": 4.9,
+                        "currency": "Euro",
+                        "imageKey": "163 ahududu limo"
+                    },
+                    {
+                        "name": {
+                            "tr": "Taze Sıkılmıs Portakal Suyu",
+                            "de": "Frisches Orangensaft"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 4.9,
+                        "currency": "Euro",
+                        "imageKey": "113 portakal suyu"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cola",
+                            "de": "Cola"
+                        },
+                        "description": {
+                            "tr": "Cola | Cola Zero",
+                            "de": "Cola | Cola Zero"
+                        },
+                        "price": 3.3,
+                        "currency": "Euro",
+                        "imageKey": "114 cola"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ice Tea",
+                            "de": "Ice Tea"
+                        },
+                        "description": {
+                            "tr": "Kiraz, Şeftali, Yeşil çay, Çarkıfelek, Nar, Limon, Yaban mersini, Çilek, Mango, Karpuz, Gül suyu",
+                            "de": "Pfirsich, Aprikose, Grüner Tee, Kirsch, Granatapfel, Zitrone, Himmelsbeere, Erdbeere, Mango, Melone, Rosenwasser"
+                        },
+                        "price": 3.3,
+                        "currency": "Euro",
+                        "imageKey": "115 ice tea"
+                    },
+                    {
+                        "name": {
+                            "tr": "Gazoz",
+                            "de": "Gazoz"
+                        },
+                        "description": {
+                            "tr": "Sade, Portakallı",
+                            "de": "Sade, Portakallı"
+                        },
+                        "price": 3,
+                        "currency": "Euro",
+                        "imageKey": "116 gazoz"
+                    },
+                    {
+                        "name": {
+                            "tr": "Soda",
+                            "de": "Soda"
+                        },
+                        "description": {
+                            "tr": "Sade, Limon, Elma, Nar, Mango, Ananas, Portakal",
+                            "de": "Zitronen, Apfel, Granatapfel, Mango, Ananas, Orangen"
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "117 soda"
+                    },
+                    {
+                        "name": {
+                            "tr": "Ayran",
+                            "de": "Ayran"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2.5,
+                        "currency": "Euro",
+                        "imageKey": "118 ayran"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cocktail Raspberry",
+                            "de": "Cocktail Raspberry"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "133 Cocktail Raspberry"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cocktail Strawberry",
+                            "de": "Cocktail Strawberry"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "162 cocktail strawberry"
+                    },
+                    {
+                        "name": {
+                            "tr": "Cocktail Passionsfrucht",
+                            "de": "Cocktail Passionsfrucht"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "137 Cocktail Passionsfrucht"
+                    },
+                    {
+                        "name": {
+                            "tr": "Redbull Moktail Minze",
+                            "de": "Redbull Moktail Minze"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "136 Redbull Moktail Minze"
+                    },
+                    {
+                        "name": {
+                            "tr": "Redbull Moktail Limette",
+                            "de": "Redbull Moktail Limette"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 8.9,
+                        "currency": "Euro",
+                        "imageKey": "138 Redbull Moktail Limette"
+                    },
+                    {
+                        "name": {
+                            "tr": "Mojito",
+                            "de": "Mojito"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 7.9,
+                        "currency": "Euro",
+                        "imageKey": "139 Mojito"
+                    },
+                    {
+                        "name": {
+                            "tr": "Enerji Icecegi",
+                            "de": "Energygetränke"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 3.5,
+                        "currency": "Euro",
+                        "imageKey": "119 enerji icecegi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Su",
+                            "de": "Wasser"
+                        },
+                        "description": {
+                            "tr": "",
+                            "de": ""
+                        },
+                        "price": 2,
+                        "currency": "Euro",
+                        "imageKey": "120 su"
+                    }
+                ]
+            },
+            "coverImageKey": "112 limonata"
+        }
+    ]
+}
