@@ -6,8 +6,8 @@ $allowed_origins = [
   "http://localhost:5173",
   "http://127.0.0.1:5173",
   // LIVE: hier deine Domain eintragen
-  "https://deinedomain.de",
-  "https://www.deinedomain.de",
+  "https://nurpastanesi.com",
+  "https://www.nurpastanesi.com",
 ];
 
 $origin = $_SERVER["HTTP_ORIGIN"] ?? "";
