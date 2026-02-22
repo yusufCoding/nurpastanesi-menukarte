@@ -37,7 +37,10 @@ export default function App() {
 
   const menuCategories = data.categories ?? [];
   const brand = data.brand ?? null;
-  const isAdmin = window.location.pathname.startsWith(`${import.meta.env.BASE_URL}admin`);
+  const isAdmin = (() => {
+    const base = import.meta.env.BASE_URL.replace(/\/+$/, "");
+    return window.location.pathname.startsWith(`${base}/admin`);
+  })();
 
 
   return (
