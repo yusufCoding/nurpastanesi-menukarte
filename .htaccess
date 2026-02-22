@@ -1,6 +1,6 @@
 Options -MultiViews
 RewriteEngine On
-RewriteBase /menu/test/
+RewriteBase /menu/subeler/kaufland/
 
 # SPA fallback
 RewriteCond %{REQUEST_FILENAME} -f [OR]
