@@ -23,8 +23,8 @@
                             "de": "Offenes Buffet Frühstück"
                         },
                         "description": {
-                            "tr": "Sınırsız içerik ve sınırsız içecek ile kişi başı fiyatıdır. Haftanin her günü 09:00-15:00 saatleri arasinda sunulur.",
-                            "de": "Preis pro Person inkl. unbegrenzter Speisen und Getränke. Täglich von 09:00 bis 15:00 Uhr."
+                            "tr": "Sınırsız içerik ve sınırsız içecek ile kişi başı fiyatıdır. Haftanin her günü 09:00-15:00 saatleri arasinda sunulur. | Haftaici : 16.00€ | Haftasonu : 18.00€",
+                            "de": "Preis pro Person inkl. unbegrenzter Speisen und Getränke. Täglich von 09:00 bis 15:00 Uhr. | An Wochentagen : 16.00€ | Am Wochenende : 18.00€"
                         },
                         "price": 17.5,
                         "currency": "Euro",
@@ -55,6 +55,19 @@
                         "price": 8.5,
                         "currency": "Euro",
                         "imageKey": "2 kahvalti tabagi"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sicak Kahvalti Tabağı",
+                            "de": "Heißes Frühstücksteller"
+                        },
+                        "description": {
+                            "tr": "Sucuklu yumurta, Menemen ya da Omlet. Domates, Salatalik, Zeytin, Gouda Peyniri, Beyaz Peynir, Maydonoz ve Ekmek esliginde sunulur.",
+                            "de": "Ei mit Sucuk, Menemen oder Spiegelei. Tomate, Gurke, Oliven, Gouda, Weisskäse, Petersilie und Brot."
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "179 sicak tabak kahvalti"
                     }
                 ]
             },
@@ -411,6 +424,32 @@
                     },
                     {
                         "name": {
+                            "tr": "Citir Kanat Menü",
+                            "de": "Crispy Wing Menü"
+                        },
+                        "description": {
+                            "tr": "6 adet pane edilmis citir tavuk kanadi, Patates kizartmasi, Ketchup & Mayonnaise",
+                            "de": "6 panierte Hähnchenflügel, Pommes frites, Ketchup & Mayonnaise"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "168 crispy kanat"
+                    },
+                    {
+                        "name": {
+                            "tr": "Citir Tavuk Parcalari",
+                            "de": "Chicken Filet"
+                        },
+                        "description": {
+                            "tr": "6 adet pane edilmis citir tavuk parcasi, Patates kizartmasi, Ketchup & Mayonnaise",
+                            "de": "6 panierte Hähnchenbrustfilet-Stücke, Pommes frites, Ketchup & Mayonnaise"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "173 citir parca"
+                    },
+                    {
+                        "name": {
                             "tr": "Citir Tavuk Fileto",
                             "de": "Chicken Filet Bites"
                         },
@@ -674,6 +713,45 @@
                         "price": 9.9,
                         "currency": "Euro",
                         "imageKey": "35 donerli lahmacun"
+                    },
+                    {
+                        "name": {
+                            "tr": "Konya Usülü Pide",
+                            "de": "Pide nach Konya Art"
+                        },
+                        "description": {
+                            "tr": "Dana kıymadan yapılan karadeniz usulü pide, Salata ve meze ile servis edilir",
+                            "de": "Konya Pide mit Rindhackfleisch, Salat und Beilagen"
+                        },
+                        "price": 12.9,
+                        "currency": "Euro",
+                        "imageKey": "160 pide konya"
+                    },
+                    {
+                        "name": {
+                            "tr": "Karadeniz Usülü Pide",
+                            "de": "Pide nach Karadeniz Art"
+                        },
+                        "description": {
+                            "tr": "Dana kıymadan yapılan karadeniz usulü pide, Salata ve meze ile servis edilir",
+                            "de": "Karadeniz Pide mit Rindhackfleisch, Salat und Beilagen"
+                        },
+                        "price": 11.9,
+                        "currency": "Euro",
+                        "imageKey": "36 kiymali pide"
+                    },
+                    {
+                        "name": {
+                            "tr": "Konya Usulü Kusbasili Pide",
+                            "de": "Kusbasili Pide nach Konya Art"
+                        },
+                        "description": {
+                            "tr": "Dana kuşbaşı etinden yapılan pide, Salata ve meze ile servis edilir",
+                            "de": "Pide mit Rindfleisch Stücke, Salat und Beilagen"
+                        },
+                        "price": 14.9,
+                        "currency": "Euro",
+                        "imageKey": "174 konya kusbasi"
                     },
                     {
                         "name": {
@@ -1112,6 +1190,32 @@
                         "price": 18.9,
                         "currency": "Euro",
                         "imageKey": "67 et sac tava"
+                    },
+                    {
+                        "name": {
+                            "tr": "Sis Kebap Porsiyon",
+                            "de": "Sis Kebap Portion"
+                        },
+                        "description": {
+                            "tr": "10 adet Sis Kebap, Salata, Pilav ya da Patates kizartmasi, közlenmis biber-domates ve meze",
+                            "de": "10 Stück Şiş kebap serviert mit Salat, Pommes oder Reis, geröstete Paprika, Tomate sowie Meze Teller"
+                        },
+                        "price": 18.9,
+                        "currency": "Euro",
+                        "imageKey": "171 sis kebap"
+                    },
+                    {
+                        "name": {
+                            "tr": "Pirzola Kebap Porsiyon",
+                            "de": "Pirzola Kebap Portion"
+                        },
+                        "description": {
+                            "tr": "5 adet Pirzola, Salata, Patates kızartması ya da Pilav, Közlenmis Biber-Domates ve Meze",
+                            "de": "5 Stück Pirzola serviert mit Salat, Pommes oder Reis, geröstete Paprika, Tomate sowie Meze Teller"
+                        },
+                        "price": 18.9,
+                        "currency": "Euro",
+                        "imageKey": "172 pirzola kebap"
                     }
                 ]
             },
