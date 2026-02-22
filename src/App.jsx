@@ -37,8 +37,7 @@ export default function App() {
 
   const menuCategories = data.categories ?? [];
   const brand = data.brand ?? null;
-  const isAdmin = window.location.pathname.startsWith(`${import.meta.env.BASE_URL}admin`);
-
+  const isAdmin = window.location.pathname.includes("/admin");
 
   return (
     <div className="page">
