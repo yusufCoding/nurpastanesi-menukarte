@@ -68,7 +68,13 @@ if (!move_uploaded_file($f["tmp_name"], $dest)) {
 }
 
 // Das ist die URL, die später im Menü genutzt werden kann
-$url = "/uploads/" . $filename;
+$scriptDir = rtrim(str_replace('\\','/', dirname($_SERVER['SCRIPT_NAME'] ?? "")), '/');
+// Beispiel: /menu/subeler/hagen/api/admin
+
+$baseDir = preg_replace('#/api/admin$#', '', $scriptDir);
+// Ergebnis: /menu/subeler/hagen
+
+$url = $baseDir . "/uploads/" . $filename;
 
 echo json_encode([
   "ok" => true,
