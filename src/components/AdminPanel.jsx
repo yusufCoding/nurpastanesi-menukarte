@@ -334,7 +334,10 @@ export default function AdminPanel({ data, setData }) {
                         body: fd,
                       });
 
-                      const json = await res.json().catch(() => ({}));
+                      const text = await res.text();
+                      console.log("upload raw:", res.status, text);
+                      let json = {};
+                      try { json = JSON.parse(text); } catch (e) { console.error("upload json parse failed", e); }
 
                       if (res.ok && json.ok) {
                         const key = json.url;
