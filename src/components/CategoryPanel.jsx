@@ -1,6 +1,7 @@
 import "../styles/panel.scss";
 import { t } from "../utils/i18n";
 import { menuImages } from "../data/images"; // Pfad ggf. anpassen
+import { resolveImageSrc } from "../utils/resolveImageSrc";
 
 
 export default function CategoryPanel({ category, lang }) {
@@ -22,7 +23,7 @@ export default function CategoryPanel({ category, lang }) {
             <article key={t(f.name, lang)} className="featuredCard">
               <div className="featuredCard__imgWrap">
                 <img
-                  src={menuImages[f.imageKey]}
+                  src={resolveImageSrc(f.imageKey)}
                   alt={t(f.name, lang)}
                   loading="lazy"
                   decoding="async"
