@@ -21,6 +21,15 @@ export default function AdminPanel({ data, setData }) {
 
   const API = `${import.meta.env.BASE_URL}api/admin`;
 
+  async function loadUploads() {
+  const res = await fetch(`${API}/list-uploads.php`, {
+    credentials: "include",
+  });
+  const json = await res.json();
+  if (res.ok && json.ok) {
+    setCustomImages(json.files || []);
+  }
+}
 
   async function login() {
     setMsg("");
@@ -33,6 +42,7 @@ export default function AdminPanel({ data, setData }) {
     if (res.ok) {
       setIsAuthed(true);
       loadBackups();
+      loadUploads();
       setMsg("✅ Eingeloggt");
     } else {
       setMsg("❌ Passwort falsch");
@@ -334,7 +344,10 @@ export default function AdminPanel({ data, setData }) {
                         body: fd,
                       });
 
-                      const json = await res.json().catch(() => ({}));
+                      const text = await res.text();
+                      console.log("upload raw:", res.status, text);
+                      let json = {};
+                      try { json = JSON.parse(text); } catch (e) { console.error("upload json parse failed", e); }
 
                       if (res.ok && json.ok) {
                         const key = json.url;
@@ -642,3 +655,4 @@ export default function AdminPanel({ data, setData }) {
     </div>
   );
 }
+
