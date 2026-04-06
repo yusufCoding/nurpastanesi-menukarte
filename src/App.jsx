@@ -41,13 +41,6 @@ export default function App() {
 
   return (
     <div className="page">
-      {showLoader && (
-        <RamadanLoader
-          lang={lang}
-          durationMs={2600}
-          onDone={() => setShowLoader(false)}
-        />
-      )}
       <Header lang={lang} onLangChange={setLang} />
       <main className="content">
         {isAdmin ? (
